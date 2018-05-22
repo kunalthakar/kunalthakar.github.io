@@ -4,7 +4,7 @@ body {
     font-family: 'Parisienne', cursive;
     text-align: center;
 }
-.h1:hover {
+h1:hover {
   text-color: yellow;
     
 }
